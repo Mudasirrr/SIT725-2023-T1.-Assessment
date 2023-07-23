@@ -1,0 +1,23 @@
+{
+  "name": "SIT725 Bsic Programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mudasirrr/SIT725-2023-T2-Prac1.git"
+  },
+  "keywords": [
+  ],
+  "author": "Mudasir Hussain",
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "0.0.0",
+    "nodemon": "^1.11.0"
+  }
+}
